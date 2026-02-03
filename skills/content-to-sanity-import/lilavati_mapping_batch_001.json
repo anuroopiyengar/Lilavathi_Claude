@@ -1,0 +1,609 @@
+{
+  "batch_id": "lilavati_mapping_batch_001",
+  "source_epub": "lilavati00bhas.epub",
+  "selection_criteria": "First 20 unique §-numbered excerpts in reading order filtered to exclude obvious editorial/footnote references; excerpt text capped at 25 words.",
+  "items": [
+    {
+      "excerpt_id": "§33",
+      "source": {
+        "section_number": 33,
+        "epub_page_file": "EPUB/page_39.html",
+        "char_offset": 835
+      },
+      "excerpt_text_short": "§ 33. Thus in the first example, we have a = 1, b — 4, c — 1, d — 3, e — l) f",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 5,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§36",
+      "source": {
+        "section_number": 36,
+        "epub_page_file": "EPUB/page_43.html",
+        "char_offset": 1068
+      },
+      "excerpt_text_short": "§ 36. sKha-hara, a fraction with cipher for its denominator. According to the remark of Ganesa, it is an infinite quantity : since it cannot",
+      "skills_modern_terms": [
+        "Multiply/divide fractions (rational numbers)",
+        "Represent rational quantities in computations"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations; fraction multiplication/division is central here.",
+          "confidence": 90
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§49",
+      "source": {
+        "section_number": 49,
+        "epub_page_file": "EPUB/page_45.html",
+        "char_offset": 705
+      },
+      "excerpt_text_short": "§ 49. If we want an arithmetical solution of such a problem, we must begin from the end, and invert every operation indicated in the",
+      "skills_modern_terms": [
+        "Work backwards using inverse operations",
+        "Reason about sequences of operations"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve multi-step problems by setting up and reasoning with equations.",
+          "confidence": 75
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 75
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§52",
+      "source": {
+        "section_number": 52,
+        "epub_page_file": "EPUB/page_49.html",
+        "char_offset": 591
+      },
+      "excerpt_text_short": "§ 52 is as follows :• — Let x denote the whole number of lotuses. Then (l4~i4-| + i)^t 6 = x, whence x =",
+      "skills_modern_terms": [
+        "Translate word problems into equations",
+        "Solve linear equations from constraints"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 85
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations and systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 3,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§47",
+      "source": {
+        "section_number": 47,
+        "epub_page_file": "EPUB/page_50.html",
+        "char_offset": 340
+      },
+      "excerpt_text_short": "§ 47). [Let x denote the original stock in nishkas. Then, at Praydga, there remained \\x -f at Kdsi , f of this being spent,",
+      "skills_modern_terms": [
+        "Translate word problems into equations",
+        "Solve linear equations from constraints"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 85
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations and systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§62",
+      "source": {
+        "section_number": 62,
+        "epub_page_file": "EPUB/page_59.html",
+        "char_offset": 99
+      },
+      "excerpt_text_short": "§62—63.] 67. Example. The son of Pritha,1 irritated in fight, shot a quiver of arrows to slay Kama. With half his arrows, he parried those",
+      "skills_modern_terms": [
+        "Use squares and square roots in problem solving"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "8.EE.A",
+          "rationale": "Radicals and integer exponents; squares/roots in expressions.",
+          "confidence": 75
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 75
+      },
+      "translation_ambiguity_notes": [
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§70",
+      "source": {
+        "section_number": 70,
+        "epub_page_file": "EPUB/page_63.html",
+        "char_offset": 577
+      },
+      "excerpt_text_short": "§ 70 is obvious]. 72. Example. If one hundred and four nishkas are got for sixty-three palas of best camphor, consider and tell me, friend,",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§79",
+      "source": {
+        "section_number": 79,
+        "epub_page_file": "EPUB/page_68.html",
+        "char_offset": 440
+      },
+      "excerpt_text_short": "§ 79 is evident. Similarly for the other parts of the example.] 81. Example. If the interest of a hundred for a month and one-third",
+      "skills_modern_terms": [
+        "Compute simple interest in real-world contexts",
+        "Use rates and time to model change"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent/rate problems including interest contexts.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial contexts modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§89",
+      "source": {
+        "section_number": 89,
+        "epub_page_file": "EPUB/page_74.html",
+        "char_offset": 527
+      },
+      "excerpt_text_short": "§ 89. By the word argument is meant 100, and by the word fruit is meant the interest on 100 for 1 month, or, as",
+      "skills_modern_terms": [
+        "Compute simple interest in real-world contexts",
+        "Use rates and time to model change"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent/rate problems including interest contexts.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial contexts modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§50",
+      "source": {
+        "section_number": 50,
+        "epub_page_file": "EPUB/page_75.html",
+        "char_offset": 799
+      },
+      "excerpt_text_short": "§50), the interest of unity is 4, which, added to one, makes 4- The given quantity 1000, multiplied by unity and divided by that (~),",
+      "skills_modern_terms": [
+        "Compute simple interest in real-world contexts",
+        "Use rates and time to model change"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent/rate problems including interest contexts.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial contexts modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": true
+      }
+    },
+    {
+      "excerpt_id": "§91",
+      "source": {
+        "section_number": 91,
+        "epub_page_file": "EPUB/page_76.html",
+        "char_offset": 542
+      },
+      "excerpt_text_short": "§ 91. bet x, y, z be the portions lent at rlf rit r3 per cent, per mensem, and let T ~ common interest in",
+      "skills_modern_terms": [
+        "Compute simple interest in real-world contexts",
+        "Use rates and time to model change"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent/rate problems including interest contexts.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial contexts modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§95",
+      "source": {
+        "section_number": 95,
+        "epub_page_file": "EPUB/page_79.html",
+        "char_offset": 483
+      },
+      "excerpt_text_short": "§ 95. Let the times in which the fountains can severally fill the cistern be a~- , ~ , &c., of a day. Then in",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§97",
+      "source": {
+        "section_number": 97,
+        "epub_page_file": "EPUB/page_80.html",
+        "char_offset": 597
+      },
+      "excerpt_text_short": "§ 97.] 97. Example. If three and a half mdncis' of rice may be had for one dramma , and eight of kidney-beans4 for the",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§98",
+      "source": {
+        "section_number": 98,
+        "epub_page_file": "EPUB/page_82.html",
+        "char_offset": 193
+      },
+      "excerpt_text_short": "§ 98 may be worked out in a similai manner.] 98. Example. If a palct of best comphor may be had for two mxhkas. and",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§100",
+      "source": {
+        "section_number": 100,
+        "epub_page_file": "EPUB/page_83.html",
+        "char_offset": 159
+      },
+      "excerpt_text_short": "§ 100, to which the rule specially refers.] 100. Example. Four jewellers, possessing respectively eight rubies, ten sapphires, a hundred pearls, and five diamonds, presented,",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§99",
+      "source": {
+        "section_number": 99,
+        "epub_page_file": "EPUB/page_84.html",
+        "char_offset": 546
+      },
+      "excerpt_text_short": "§ 99 will be evident from the above algebraical solution. The coefficients of x< y, &c. in the final equations will be = the no.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§104",
+      "source": {
+        "section_number": 104,
+        "epub_page_file": "EPUB/page_87.html",
+        "char_offset": 237
+      },
+      "excerpt_text_short": "§ 104 is obvious.] 106. Rule.1 The acquired fineness of the mixture being multiplied by the sum of the gold (in the known parcels), subtract",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§130",
+      "source": {
+        "section_number": 130,
+        "epub_page_file": "EPUB/page_91.html",
+        "char_offset": 1131
+      },
+      "excerpt_text_short": "§ 130 — 131. Similarly, taking the whole tetrastic, i.e.f 24 syllables, the total number of changes = (224 — 1) + 1 (with all",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 3,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§115",
+      "source": {
+        "section_number": 115,
+        "epub_page_file": "EPUB/page_97.html",
+        "char_offset": 189
+      },
+      "excerpt_text_short": "§ 115 is only a particular case of the present rule.] 120. Example. A person, having given four drammas to priests on the first day,",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§119",
+      "source": {
+        "section_number": 119,
+        "epub_page_file": "EPUB/page_97.html",
+        "char_offset": 1096
+      },
+      "excerpt_text_short": "§ 119.] 1 To exhibit an instance of an even number of terms, where i there can consequently be no middle term (but a mean",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    }
+  ]
+}

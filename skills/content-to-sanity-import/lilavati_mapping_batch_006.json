@@ -1,0 +1,829 @@
+{
+  "batch_id": "lilavati_mapping_batch_006",
+  "source_epub": "lilavati00bhas.epub",
+  "id_schema_version": "v2",
+  "id_type": "chapter_problem_index",
+  "selection_criteria": "Heuristic extraction of likely problem/verse statements from OCR text excluding §-marked items and obvious editorial notes; grouped in reading order; excerpt text capped at 25 words.",
+  "items": [
+    {
+      "excerpt_id": "ChII_P001",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_24.html"
+      },
+      "excerpt_text_short": "three, eighteen, ten and a hundred, added together ; and the remainder, when their sum is subtracted from ten thousand. Statement : 2, 5, 32,",
+      "skills_modern_terms": [
+        "Solve percent/rate problems (including simple interest contexts)",
+        "Translate word problems into equations and solve for unknowns",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent and rate problems align to proportional reasoning in Grade 7.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial/rate contexts can be modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChII_P002",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_29.html"
+      },
+      "excerpt_text_short": "[ ii 3 working of the first method is this : — Suppose we have to find the square of 297. Then 72 = 49",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChII_P003",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_30.html"
+      },
+      "excerpt_text_short": "[ 12 ] square of 3, viz., 9, the sum is as before the square, 88209, 21. Rule for the square, root1 : one stanza.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChII_P004",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_32.html"
+      },
+      "excerpt_text_short": "[ 14 ] the square. Or three times the proposed number, multiplied by its two parts, added to the sum of the cubes of those",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChII_P005",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_38.html"
+      },
+      "excerpt_text_short": "The integer being multiplied by the denominator, the numerator is made positive or negative,* 1 provided parts of a unit be added or be subtractive.",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChII_P006",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_41.html"
+      },
+      "excerpt_text_short": "[ 23 ] 38. Rule for multiplication of fractions1 : half a stanza. The product of the numerators, divided by the product of the denominators,",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChII_P007",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER II",
+        "epub_page_file": "EPUB/page_42.html"
+      },
+      "excerpt_text_short": "[ 24 ] Statement : 2 / 7 ^ . J, 1 'T/ 3 Proceeding as directed, the quotients are fand 42. Rule for involution",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P001",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_46.html"
+      },
+      "excerpt_text_short": "[ 28 ) evidently x ~ — c + ~~~ • This explains the latter b ± a b ±a part of the rule.] 49.",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 4,
+        "has_multiple_punct_runs": true
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P002",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_47.html"
+      },
+      "excerpt_text_short": "[ 29 ] in the particular question, being multiplied and divided, raised or diminished by fractions ; then the given quantity, being multiplied by the",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P003",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_51.html"
+      },
+      "excerpt_text_short": "I 33 ] remainder is 2. Then the product of the known quantity by the assumed one, being divided by this remainder shows the number",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P004",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_53.html"
+      },
+      "excerpt_text_short": "[ 35 ] 59. Rule. The square of an arbitrary number, multiplied by eight and lessened by one, then halved and divided by the assumed",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 82
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P005",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_55.html"
+      },
+      "excerpt_text_short": "[ 37 j Pat J. The square of the square of the assumed number is to, which multiplied by 8 makes This added to 1",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P006",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_56.html"
+      },
+      "excerpt_text_short": "[ 38. ] being squared, is the quantity sought by the interrogator. If the quantity have a fraction (of itself) added or subtracted, divide the",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P007",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_57.html"
+      },
+      "excerpt_text_short": "[ 39 ] x ± -j'X ± a Jx — b Whence we get (2). x ± a J x 1±~ 1±C d d which",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 82
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 6,
+        "has_multiple_punct_runs": true
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P008",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_69.html"
+      },
+      "excerpt_text_short": "! 51 1 82. Kxample of the Uule of Seven. If eight best variegated silk scarfs, measuring three cubits in breadth and eight in length,",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P009",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_71.html"
+      },
+      "excerpt_text_short": "I 53 ] Statement : 12 16 14 30 1 8 8 12 Answer* 1 : drammas 8 10 14 6 [Let x denote the",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIII_P010",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER III",
+        "epub_page_file": "EPUB/page_72.html"
+      },
+      "excerpt_text_short": "[ 54 ] likewise, the same process is (followed) ; transposing both prices, as well as the divisors.1 [The reason for the rule will appear",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Count outcomes/arrangements to support probability reasoning"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.SP.C",
+          "rationale": "Use organized lists/tree diagrams to count outcomes for probability.",
+          "confidence": 75
+        },
+        {
+          "code": "HSS-CP",
+          "rationale": "Use counting principles for probability of compound events.",
+          "confidence": 85
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIV_P001",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER IV",
+        "epub_page_file": "EPUB/page_78.html"
+      },
+      "excerpt_text_short": "[ 60 ] 92. Rule1 : half a stanza. The contributions2 being multiplied by the mixed amount and divided by the sum of the contributions,",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIV_P002",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER IV",
+        "epub_page_file": "EPUB/page_81.html"
+      },
+      "excerpt_text_short": "[ 63 j parts of rice with one of kidney-beans ; for we mustmake a hasty meal and depart, since my companion will proceed onwards.",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIV_P003",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER IV",
+        "epub_page_file": "EPUB/page_86.html"
+      },
+      "excerpt_text_short": "C 68 ] the purified mass. Or, if its purity when refined be sixteen, prithee, what is the number to wdiich the twenty mdslias are",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 82
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "batch_id": "lilavati_mapping_batch_003",
+  "source_epub": "lilavati00bhas.epub",
+  "selection_criteria": "Next 20 unique §-numbered excerpts in reading order after Batch 2, filtered to exclude obvious editorial/footnote references; excerpt text capped at 25 words.",
+  "items": [
+    {
+      "excerpt_id": "§190",
+      "source": {
+        "section_number": 190,
+        "epub_page_file": "EPUB/page_144.html",
+        "char_offset": 278
+      },
+      "excerpt_text_short": "§190) as operose, entirely forgets that the rule propounded by himself is comparatively unimportant and of very limited application.] Assuming two right-angled triangles, multiply the",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§178",
+      "source": {
+        "section_number": 178,
+        "epub_page_file": "EPUB/page_145.html",
+        "char_offset": 1411
+      },
+      "excerpt_text_short": "§178), to find the diagonals, a pair of rectangular triangles is put. Proceeding as directed, tho diagonals come out 77 and 84. (See Fig. 3.)",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§193",
+      "source": {
+        "section_number": 193,
+        "epub_page_file": "EPUB/page_148.html",
+        "char_offset": 792
+      },
+      "excerpt_text_short": "§ 193-194). From similar triangles we have, EG ^ CR GA ~ Ha whence EG — GA x CH ha and AE_ GA AC HA",
+      "skills_modern_terms": [
+        "Translate word problems into equations",
+        "Solve linear equations from constraints",
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 85
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations and systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§221",
+      "source": {
+        "section_number": 221,
+        "epub_page_file": "EPUB/page_154.html",
+        "char_offset": 1920
+      },
+      "excerpt_text_short": "§221). Therefore (unit taken into) a sixth part of the diameter is the content of one such pyramidical portion : and that multiplied by the",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts",
+        "Compute volume from dimensions; apply mensuration to real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume problems for 3D objects in real contexts.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§138",
+      "source": {
+        "section_number": 138,
+        "epub_page_file": "EPUB/page_160.html",
+        "char_offset": 1259
+      },
+      "excerpt_text_short": "§ 138. 212. Example. Within a circle of which the diameter is two thousand, tell me severally the sides of the inscribed equilateral triangle and",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§2",
+      "source": {
+        "section_number": 2,
+        "epub_page_file": "EPUB/page_163.html",
+        "char_offset": 1031
+      },
+      "excerpt_text_short": "§ 2 13)’ whence * -m! + 4(8 r + AB) 0 c 2 x , Jc2 5 AB c2 \\ , . J V",
+      "skills_modern_terms": [
+        "Translate word problems into equations",
+        "Solve linear equations from constraints"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 85
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations and systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§7",
+      "source": {
+        "section_number": 7,
+        "epub_page_file": "EPUB/page_174.html",
+        "char_offset": 1372
+      },
+      "excerpt_text_short": "§ 7. The proportion of the Tchdri or other dry measure of any province to the solid cubit being determined, a rule may be readily",
+      "skills_modern_terms": [
+        "Compute volume from dimensions; apply mensuration to real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume problems for 3D objects in real contexts.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§239",
+      "source": {
+        "section_number": 239,
+        "epub_page_file": "EPUB/page_177.html",
+        "char_offset": 698
+      },
+      "excerpt_text_short": "§239), is founded on the algebraic solution of a quadratic equation. Ganesa gives it at length after the manner of the author's Vija-ganita. It is",
+      "skills_modern_terms": [
+        "Compute volume from dimensions; apply mensuration to real contexts",
+        "Indirect measurement using right triangles (shadows/gnomon)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume problems for 3D objects in real contexts.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        },
+        {
+          "code": "8.G.B",
+          "rationale": "Pythagorean theorem / right-triangle reasoning in applications.",
+          "confidence": 70
+        },
+        {
+          "code": "HSG-SRT★",
+          "rationale": "Similarity/right triangles/trigonometry for indirect measurement.",
+          "confidence": 90
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§244",
+      "source": {
+        "section_number": 244,
+        "epub_page_file": "EPUB/page_177.html",
+        "char_offset": 1229
+      },
+      "excerpt_text_short": "§244. * Chhdyd , bhd, prabhd , shadow. Sanku , nara, nri, a gnomon, usually 12^fingers long. Kama , hypotenuse of the triangle, of which",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts",
+        "Indirect measurement using right triangles (shadows/gnomon)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        },
+        {
+          "code": "8.G.B",
+          "rationale": "Pythagorean theorem / right-triangle reasoning in applications.",
+          "confidence": 70
+        },
+        {
+          "code": "HSG-SRT★",
+          "rationale": "Similarity/right triangles/trigonometry for indirect measurement.",
+          "confidence": 90
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§240",
+      "source": {
+        "section_number": 240,
+        "epub_page_file": "EPUB/page_180.html",
+        "char_offset": 1024
+      },
+      "excerpt_text_short": "§ 240.] 1 To find the elevation of the torch, the length of the shadow, and the (horizontal) distance being given.— Siir.",
+      "skills_modern_terms": [
+        "Compute volume from dimensions; apply mensuration to real contexts",
+        "Indirect measurement using right triangles (shadows/gnomon)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume problems for 3D objects in real contexts.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        },
+        {
+          "code": "8.G.B",
+          "rationale": "Pythagorean theorem / right-triangle reasoning in applications.",
+          "confidence": 70
+        },
+        {
+          "code": "HSG-SRT★",
+          "rationale": "Similarity/right triangles/trigonometry for indirect measurement.",
+          "confidence": 90
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§243",
+      "source": {
+        "section_number": 243,
+        "epub_page_file": "EPUB/page_181.html",
+        "char_offset": 634
+      },
+      "excerpt_text_short": "§ 243.) Answer : distance 3 cubits. 245. Rule2 : a stanza and a half. The length of a shadow multiplied by the distance between",
+      "skills_modern_terms": [
+        "Compute volume from dimensions; apply mensuration to real contexts",
+        "Indirect measurement using right triangles (shadows/gnomon)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume problems for 3D objects in real contexts.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        },
+        {
+          "code": "8.G.B",
+          "rationale": "Pythagorean theorem / right-triangle reasoning in applications.",
+          "confidence": 70
+        },
+        {
+          "code": "HSG-SRT★",
+          "rationale": "Similarity/right triangles/trigonometry for indirect measurement.",
+          "confidence": 90
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§253",
+      "source": {
+        "section_number": 253,
+        "epub_page_file": "EPUB/page_188.html",
+        "char_offset": 836
+      },
+      "excerpt_text_short": "§ 253. Let y denote the multiplier and x the integral quotient. Then we set 221// + 65 195“ — VT ^ — X ?",
+      "skills_modern_terms": [
+        "Translate word problems into equations",
+        "Solve linear equations from constraints"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 85
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations and systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 4,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§262",
+      "source": {
+        "section_number": 262,
+        "epub_page_file": "EPUB/page_191.html",
+        "char_offset": 139
+      },
+      "excerpt_text_short": "§ 262, is clear. The meaning of the term abraded as used by the author is also clear.] 253. Example. Say quickly, mathematician, what that",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§255",
+      "source": {
+        "section_number": 255,
+        "epub_page_file": "EPUB/page_192.html",
+        "char_offset": 685
+      },
+      "excerpt_text_short": "§ 255.] 255. Example. If thou be expert in the investigation of such questions, tell me the precise multiplier by which a hundred being multiplied,",
+      "skills_modern_terms": [
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside core CCSSM scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 15
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§252",
+      "source": {
+        "section_number": 252,
+        "epub_page_file": "EPUB/page_195.html",
+        "char_offset": 846
+      },
+      "excerpt_text_short": "§252. Similarly, if we find values of r and y from the equation lx — 100y = 10, these values of x and 9 times",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§256",
+      "source": {
+        "section_number": 256,
+        "epub_page_file": "EPUB/page_198.html",
+        "char_offset": 761
+      },
+      "excerpt_text_short": "§256) the multiplier and quotient answering to the same as a negative quantity are found, 1 and the negative quantity — 6. Added to arbitrary",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§25",
+      "source": {
+        "section_number": 25,
+        "epub_page_file": "EPUB/page_199.html",
+        "char_offset": 924
+      },
+      "excerpt_text_short": "§25S is that the same negative value is to be given to t in the expressions for x and y. To explain the second part",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§260",
+      "source": {
+        "section_number": 260,
+        "epub_page_file": "EPUB/page_200.html",
+        "char_offset": 628
+      },
+      "excerpt_text_short": "§ 260), the multiplier and quotient come out 0 and b ; or 13 and 10 ; or 26 and 15 ; and so forth.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§267",
+      "source": {
+        "section_number": 267,
+        "epub_page_file": "EPUB/page_214.html",
+        "char_offset": 233
+      },
+      "excerpt_text_short": "§267) are 24. First, two places are filled by like digits (2, 2), and the permutations for that number of places are 2. Next two",
+      "skills_modern_terms": [
+        "Count outcomes/arrangements to support probability reasoning"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.SP.C",
+          "rationale": "Use organized lists/tree diagrams to count outcomes for probability.",
+          "confidence": 75
+        },
+        {
+          "code": "HSS-CP",
+          "rationale": "Use counting principles for probability of compound events.",
+          "confidence": 85
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§1",
+      "source": {
+        "section_number": 1,
+        "epub_page_file": "EPUB/page_290.html",
+        "char_offset": 164
+      },
+      "excerpt_text_short": "§ 1 1 3r4 rnrt: ^RTfroft ^ *rn? TORSI WSRTTO^ ^ II WTlTTOiTOiaffiW^^ wn^nw(®ftwg?Twr i ^nl^mwr to frota: wSf wt^ TOTOW% II II wrre: WWTOW^",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    }
+  ]
+}

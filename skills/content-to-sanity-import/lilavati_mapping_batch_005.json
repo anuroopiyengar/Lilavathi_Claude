@@ -1,0 +1,117 @@
+{
+  "batch_id": "lilavati_mapping_batch_005",
+  "source_epub": "lilavati00bhas.epub",
+  "selection_criteria": "Remaining unique §-numbered excerpts available after Batches 1–4 using text-extractable markers; only 4 new § markers were found without duplicating prior batches. Excerpt text capped at 25 words.",
+  "items": [
+    {
+      "excerpt_id": "§122",
+      "source": {
+        "section_number": 122,
+        "epub_page_file": "EPUB/page_98.html",
+        "char_offset": 1230
+      },
+      "excerpt_text_short": "§ 122. 5 This rulo also is converse of the foregoing.— Gan.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§146",
+      "source": {
+        "section_number": 146,
+        "epub_page_file": "EPUB/page_105.html",
+        "char_offset": 1966
+      },
+      "excerpt_text_short": "§ 146. 4 A stanza of six charams of anushtubli metre.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§254",
+      "source": {
+        "section_number": 254,
+        "epub_page_file": "EPUB/page_195.html",
+        "char_offset": 1216
+      },
+      "excerpt_text_short": "§ 254 is obvious.] 256. Rule1 : half a stanza. The multiplier and quotient, as found for an additive quantity, being subtracted from their respective",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§265",
+      "source": {
+        "section_number": 265,
+        "epub_page_file": "EPUB/page_209.html",
+        "char_offset": 938
+      },
+      "excerpt_text_short": "§265 is obvious.] 1 [See Gol&dhydya , XIII, 13 — 15. — Ed.] 2 The quotient as it comes out in this operation is not",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 3,
+        "has_multiple_punct_runs": false
+      }
+    }
+  ]
+}

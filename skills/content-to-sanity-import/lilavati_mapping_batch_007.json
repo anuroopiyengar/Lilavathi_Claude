@@ -1,0 +1,1090 @@
+{
+  "batch_id": "lilavati_mapping_batch_007",
+  "source_epub": "lilavati00bhas.epub",
+  "id_schema_version": "v2",
+  "id_type": "chapter_problem_index",
+  "selection_criteria": "Heuristic extraction of likely problem/verse statements from OCR text excluding §-marked items and obvious editorial notes; grouped in reading order; excerpt text capped at 25 words.",
+  "items": [
+    {
+      "excerpt_id": "ChIV_P004",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER IV",
+        "epub_page_file": "EPUB/page_90.html"
+      },
+      "excerpt_text_short": "[ 72 ] 113. A single example in prosody. In the permutations of the Gayatri metre,1 say quickly, friend, how many the possible changes of",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Count outcomes/arrangements to support probability reasoning"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.SP.C",
+          "rationale": "Use organized lists/tree diagrams to count outcomes for probability.",
+          "confidence": 75
+        },
+        {
+          "code": "HSS-CP",
+          "rationale": "Use counting principles for probability of compound events.",
+          "confidence": 85
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChIV_P005",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER IV",
+        "epub_page_file": "EPUB/page_92.html"
+      },
+      "excerpt_text_short": "[ 74 ] 114. Example. In a pleasant, spacious and elegant edifice, with eight doors,1 constructed by a skilful architect, as a palace for the",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Count outcomes/arrangements to support probability reasoning"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.SP.C",
+          "rationale": "Use organized lists/tree diagrams to count outcomes for probability.",
+          "confidence": 75
+        },
+        {
+          "code": "HSS-CP",
+          "rationale": "Use counting principles for probability of compound events.",
+          "confidence": 85
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChV_P001",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER V",
+        "epub_page_file": "EPUB/page_94.html"
+      },
+      "excerpt_text_short": "CHAPTER V. PROGRESSIONS.1 SECTION I. Arithmetical Progression. 115. Rule.2 Half the period3 multiplied by the period added to unity, is the sum of the arithmeticals",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Analyze arithmetic/geometric sequences and series in context"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "HSF-BF",
+          "rationale": "Sequences treated as functions; build/interpret recurrence and explicit forms.",
+          "confidence": 80
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Geometric growth aligns with exponential models.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 82
+      },
+      "translation_ambiguity_notes": [
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChV_P002",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER V",
+        "epub_page_file": "EPUB/page_95.html"
+      },
+      "excerpt_text_short": "[ 77 ] [1 + 2-f 3 . to n terms — ^ • By tf the aggregate of the additions/' the author evidently means",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Analyze arithmetic/geometric sequences and series in context"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "HSF-BF",
+          "rationale": "Sequences treated as functions; build/interpret recurrence and explicit forms.",
+          "confidence": 80
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Geometric growth aligns with exponential models.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 3,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChV_P003",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER V",
+        "epub_page_file": "EPUB/page_96.html"
+      },
+      "excerpt_text_short": "[ 78 ] 118. Example. Tell promptly the sum of the squares, and the sum of the cubes, of those numbers, if thy mind be",
+      "skills_modern_terms": [
+        "Analyze arithmetic/geometric sequences and series in context"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSF-BF",
+          "rationale": "Sequences treated as functions; build/interpret recurrence and explicit forms.",
+          "confidence": 80
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Geometric growth aligns with exponential models.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 80
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChV_P004",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER V",
+        "epub_page_file": "EPUB/page_100.html"
+      },
+      "excerpt_text_short": "L 82 ] rule, the upper sign only being taken by the author. He does not discuss the meaning of the two values of n.]",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Analyze arithmetic/geometric sequences and series in context",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "HSF-BF",
+          "rationale": "Sequences treated as functions; build/interpret recurrence and explicit forms.",
+          "confidence": 80
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Geometric growth aligns with exponential models.",
+          "confidence": 80
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChV_P005",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER V",
+        "epub_page_file": "EPUB/page_101.html"
+      },
+      "excerpt_text_short": "1 83 j [Let a denote the first term and r the common ra£|o. 1 lien, ci -f- ci/' -f* •»...» -f- CM'* ^ ci\\",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 82
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 4,
+        "has_multiple_punct_runs": true
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P001",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_108.html"
+      },
+      "excerpt_text_short": "[ 9° ] taking the square root approximately is practically to get the square root to a certain number of decimal places. Bhaskara, however, does",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P002",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_117.html"
+      },
+      "excerpt_text_short": "[ 99 ] 152. Friend, the space between the lotus (as it stood) and the spot where it submerged, is the side. The lotus as",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P003",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_130.html"
+      },
+      "excerpt_text_short": "[ 112 ] indeterminate, how should the area be in this case determinate P The diagonals found as assumed by the ancients1 do not answer",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P004",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_139.html"
+      },
+      "excerpt_text_short": "L 121 ] Let the two triangles ABE, DEC be united into one triangle A'B'C, their altitudes being equal. Then the altitude A'E' of the",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P005",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_141.html"
+      },
+      "excerpt_text_short": "[ 123 ] Next to find the sum of the squares of the perpendicular and difference between base and segment, we have, base of trapezium,",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Translate word problems into equations and solve for unknowns"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P006",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_151.html"
+      },
+      "excerpt_text_short": "[ 133 ] the fruit or requisition, the Rule of Three is to be inferred by the intelligent mathematician. [The object of the rule is",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Solve percent/rate problems (including simple interest contexts)",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent and rate problems align to proportional reasoning in Grade 7.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial/rate contexts can be modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units.",
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P007",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_153.html"
+      },
+      "excerpt_text_short": "[ 185 ] 203. Rule. In a circle, a quarter of the diameter multiplied by the circumference is the area. That multiplied by four 1",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P008",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_156.html"
+      },
+      "excerpt_text_short": "[ 138 ] 4 u, Again, the volume of a sphere = — * -g, d being the diameter d 8 ra*1 - a* ™\">hly",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts",
+        "Solve integer divisibility constraints (congruence-like reasoning)"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        },
+        {
+          "code": "UNMATCHED",
+          "rationale": "Modular/Diophantine methods are outside CCSSM core scope.",
+          "confidence": 15
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 3,
+        "has_multiple_punct_runs": true
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P009",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_157.html"
+      },
+      "excerpt_text_short": "[ 139 ] Then CD=\\ ( DH-CG) = \\ (DH-BF) = 4 ( DH - JbW^EF*) = 1 (OFI- JoTF-aW), whence the rule. Again, CH.",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": true
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P010",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_159.html"
+      },
+      "excerpt_text_short": "[ 141 ] Todhunter’s Trigonometry, Art. 255). Hence, side of inscribed equilateral triangle = 2r sin 60° = 2r — = 2r 1*7320508 - 2",
+      "skills_modern_terms": [
+        "Operate on rational numbers (fractions) in context",
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.NS.A",
+          "rationale": "Rational number operations, including fraction computation, in applied contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units.",
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 4,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVI_P011",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VI",
+        "epub_page_file": "EPUB/page_164.html"
+      },
+      "excerpt_text_short": "[ 146 ] square of the chord, the square root of the sum is the arc, if 20 denote the angle sub tended by the",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units.",
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 4,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVII_P001",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VII",
+        "epub_page_file": "EPUB/page_167.html"
+      },
+      "excerpt_text_short": "[ 149 ] 219 — 220. Example : two stanzas. Where the length of the cavity, owing to the-slant of the sides, is measured by",
+      "skills_modern_terms": [
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "Non-ASCII characters detected; could indicate OCR artifacts affecting operators/units."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "ChVII_P002",
+      "id_type": "chapter_problem_index",
+      "source": {
+        "chapter_label": "CHAPTER VII",
+        "epub_page_file": "EPUB/page_168.html"
+      },
+      "excerpt_text_short": "[ 150 ] of the regular equal solid is the content of the acute one.1 [This rule gives the exact volume. The tank contemplated is",
+      "skills_modern_terms": [
+        "Solve proportional relationship problems (ratios, unit rates)",
+        "Translate word problems into equations and solve for unknowns",
+        "Compute area/perimeter/circle measures in applied contexts",
+        "Compute volume from dimensions; apply mensuration in real contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Use proportional relationships to solve multistep real-world problems.",
+          "confidence": 90
+        },
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 82
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations/systems arising from contexts.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world measurement problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling.",
+          "confidence": 80
+        },
+        {
+          "code": "7.G.B",
+          "rationale": "Volume computations in real-world contexts.",
+          "confidence": 85
+        },
+        {
+          "code": "8.G.C",
+          "rationale": "Volume of 3D objects in real-world problems.",
+          "confidence": 82
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Volume formulas and geometric measurement/modeling.",
+          "confidence": 88
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 90
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents).",
+        "May rely on a figure/diagram embedded as an image; verify labels/numerics in the page image."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 0,
+        "has_multiple_punct_runs": false
+      }
+    }
+  ]
+}

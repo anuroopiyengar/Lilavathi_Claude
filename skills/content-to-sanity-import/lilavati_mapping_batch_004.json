@@ -1,0 +1,602 @@
+{
+  "batch_id": "lilavati_mapping_batch_004",
+  "source_epub": "lilavati00bhas.epub",
+  "selection_criteria": "Next 20 unique §-numbered excerpts in reading order after Batch 3 (more permissive selection due to scarcity of remaining clean § markers); excerpt text capped at 25 words.",
+  "items": [
+    {
+      "excerpt_id": "§13",
+      "source": {
+        "section_number": 13,
+        "epub_page_file": "EPUB/page_19.html",
+        "char_offset": 847
+      },
+      "excerpt_text_short": "§ 13 and 277. 4 Cyproea monota. Sans., Vara taka, kapu.rdi, Hindi, Kauri,",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "Story-specific units/proper nouns present; math structure should be verified from full context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§249",
+      "source": {
+        "section_number": 249,
+        "epub_page_file": "EPUB/page_27.html",
+        "char_offset": 994
+      },
+      "excerpt_text_short": "§ 249. 3 The process of long division is exhibited in the Manoranjana , thus : The highest places of the proposed dividend, 16, being",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§24",
+      "source": {
+        "section_number": 24,
+        "epub_page_file": "EPUB/page_28.html",
+        "char_offset": 1198
+      },
+      "excerpt_text_short": "§ 24. 3The proposed quantity may be divided into three parts, instead of two; and the products of the first and second, first and third,",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§135",
+      "source": {
+        "section_number": 135,
+        "epub_page_file": "EPUB/page_52.html",
+        "char_offset": 1000
+      },
+      "excerpt_text_short": "§135. 2 Or divided by their sum, gives their difference. — Gan. 3 Varga-harman, operation relative to squares ; an indeterminate problem, admitting innumerable solutions.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§63",
+      "source": {
+        "section_number": 63,
+        "epub_page_file": "EPUB/page_61.html",
+        "char_offset": 249
+      },
+      "excerpt_text_short": "§63), and proceeding as before directed, the number is brought out, 576. [Let x denote the number required. Then, # + 1 # + 18",
+      "skills_modern_terms": [
+        "Translate word problems into equations",
+        "Solve linear equations from constraints"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.EE.B",
+          "rationale": "Solve word problems using equations/inequalities.",
+          "confidence": 85
+        },
+        {
+          "code": "8.EE.C",
+          "rationale": "Solve linear equations and systems arising from contexts.",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "Possible OCR noise in symbols (e.g., slashes/backslashes/exponents)."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§101",
+      "source": {
+        "section_number": 101,
+        "epub_page_file": "EPUB/page_64.html",
+        "char_offset": 1415
+      },
+      "excerpt_text_short": "§ 101. *See Chap. X. When heaps of grain, which had been meted with a small measure, are again meted with a larger one, the",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§81",
+      "source": {
+        "section_number": 81,
+        "epub_page_file": "EPUB/page_66.html",
+        "char_offset": 1211
+      },
+      "excerpt_text_short": "§ 81). But the Manoranjana and Suryadasa explain it otherwise ; and the latter cites as, ancient commentary entitled Ganita-Kaumudi in support of his exposition.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§82",
+      "source": {
+        "section_number": 82,
+        "epub_page_file": "EPUB/page_67.html",
+        "char_offset": 494
+      },
+      "excerpt_text_short": "§82. For the meaning of the term \"‘larger set/' see foot-note 3 p. 48. The phrase has been rather loosely used.] 80. Example. If the",
+      "skills_modern_terms": [
+        "Compute simple interest in real-world contexts",
+        "Use rates and time to model change"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.RP.A",
+          "rationale": "Percent/rate problems including interest contexts.",
+          "confidence": 88
+        },
+        {
+          "code": "HSF-LE★",
+          "rationale": "Financial contexts modeled with linear/exponential relationships (modeling).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 88
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§77",
+      "source": {
+        "section_number": 77,
+        "epub_page_file": "EPUB/page_85.html",
+        "char_offset": 1326
+      },
+      "excerpt_text_short": "§ 77. “The degrees of fineness increase as the weight is reduced by refining.” — Gan, Gang.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 4,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§106",
+      "source": {
+        "section_number": 106,
+        "epub_page_file": "EPUB/page_87.html",
+        "char_offset": 1118
+      },
+      "excerpt_text_short": "§ 106.] i To find the weight of a parcel of known fineness, but unknown weight, mixed with other parcels of known weight and fineness.—",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§108",
+      "source": {
+        "section_number": 108,
+        "epub_page_file": "EPUB/page_88.html",
+        "char_offset": 1097
+      },
+      "excerpt_text_short": "§ 108 is obvious.] 1 To find tho weight of two parcels of given fineness and unknown weight, — Gan. and Stir. The problem is",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§110",
+      "source": {
+        "section_number": 110,
+        "epub_page_file": "EPUB/page_93.html",
+        "char_offset": 397
+      },
+      "excerpt_text_short": "§ 110 — 112, however, equally applies, as has been explained above. The total number of combinations in this case = 26 -1=63.]",
+      "skills_modern_terms": [
+        "Count outcomes/arrangements to support probability reasoning"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.SP.C",
+          "rationale": "Use organized lists/tree diagrams to count outcomes for probability.",
+          "confidence": 75
+        },
+        {
+          "code": "HSS-CP",
+          "rationale": "Use counting principles for probability of compound events.",
+          "confidence": 85
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§160",
+      "source": {
+        "section_number": 160,
+        "epub_page_file": "EPUB/page_122.html",
+        "char_offset": 327
+      },
+      "excerpt_text_short": "§ 160, and the proof given by Ganesa, cited in the foot-note, which is slightly different and more cumbrous.] 160. Example. Tell the perpendicular drawn",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§5",
+      "source": {
+        "section_number": 5,
+        "epub_page_file": "EPUB/page_127.html",
+        "char_offset": 1559
+      },
+      "excerpt_text_short": "§5. * For finding the gross area of a quadrilateral, and, by extension of the rule, the exact area of a triangle.— Gan. For finding",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§169",
+      "source": {
+        "section_number": 169,
+        "epub_page_file": "EPUB/page_129.html",
+        "char_offset": 254
+      },
+      "excerpt_text_short": "§ 169—170. The proof of the rule given by Siiryadasa is not at all clear. See foot-note], 16S. Example In a quadrilateral figure, of which",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§183",
+      "source": {
+        "section_number": 183,
+        "epub_page_file": "EPUB/page_135.html",
+        "char_offset": 873
+      },
+      "excerpt_text_short": "§183) or as given by the conditions of the question— Gan. 9 The two perpendiculars and. the four segments. — Gan. 3 Square of the",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 3,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§173",
+      "source": {
+        "section_number": 173,
+        "epub_page_file": "EPUB/page_146.html",
+        "char_offset": 1015
+      },
+      "excerpt_text_short": "§173 to .this place, shown the method of finding the area, &c.. in the fourteen sorts of quadrilaterals, the author now exhibits another quadrilateral, proposing",
+      "skills_modern_terms": [
+        "Compute area/perimeter in applied contexts"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "7.G.B",
+          "rationale": "Solve real-world problems involving area/circumference/volume.",
+          "confidence": 85
+        },
+        {
+          "code": "HSG-GMD★",
+          "rationale": "Geometric measurement and modeling (area/volume).",
+          "confidence": 80
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 85
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§230",
+      "source": {
+        "section_number": 230,
+        "epub_page_file": "EPUB/page_172.html",
+        "char_offset": 1307
+      },
+      "excerpt_text_short": "§ 230). * To reduce superficial fingers to superficial cubits.",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§245",
+      "source": {
+        "section_number": 245,
+        "epub_page_file": "EPUB/page_183.html",
+        "char_offset": 1316
+      },
+      "excerpt_text_short": "§245. [The author here purports to# explain fully what he has hinted at before. — Ed.]",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [],
+      "extraction_quality": {
+        "non_ascii_chars": 2,
+        "has_multiple_punct_runs": false
+      }
+    },
+    {
+      "excerpt_id": "§251",
+      "source": {
+        "section_number": 251,
+        "epub_page_file": "EPUB/page_189.html",
+        "char_offset": 633
+      },
+      "excerpt_text_short": "§ 251 is to find the value of the convergent P and thence the value of the quantities gC, pC. The rule, however, is cot",
+      "skills_modern_terms": [
+        "General quantitative reasoning from word problems"
+      ],
+      "ccssm_mappings": [
+        {
+          "code": "HSN-Q★",
+          "rationale": "Quantitative reasoning with units/quantities in context.",
+          "confidence": 60
+        }
+      ],
+      "mapping_confidence_summary": {
+        "max_confidence": 60
+      },
+      "translation_ambiguity_notes": [
+        "This excerpt may be from editorial/footnote material rather than the main problem statement; verify in page context."
+      ],
+      "extraction_quality": {
+        "non_ascii_chars": 1,
+        "has_multiple_punct_runs": false
+      }
+    }
+  ]
+}
