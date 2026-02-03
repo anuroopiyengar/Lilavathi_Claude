@@ -1,0 +1,9 @@
+{
+  "notes": "Optional hooks. Enable only if you want session summaries saved automatically.",
+  "hooks": [
+    {
+      "event": "Stop",
+      "command": "node Lilavathi/hooks/scripts/post_stop_save_summary.js"
+    }
+  ]
+}
